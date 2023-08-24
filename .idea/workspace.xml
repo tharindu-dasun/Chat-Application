@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c26ce06-64ea-456e-8f5f-d74d15dfae1a" name="Changes" comment="" />
+    <list default="true" id="1c26ce06-64ea-456e-8f5f-d74d15dfae1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-Application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ClientFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ClientFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/LoginFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utill/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utill/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utill/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utill/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Client_Form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Client_Form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Login_Form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Login_Form.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QVSX4tBCmVX5CmgFimWzZMnXg8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +41,52 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Ijse Second/Chat-Application",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ijse Second\Chat-Application\src\Assest\Icon" />
+      <recent name="D:\Ijse Second\Chat-Application\src\Assest\Image" />
+      <recent name="D:\Ijse Second\Chat-Application" />
+      <recent name="D:\Ijse Second\Chat-Application\src\Utill" />
+      <recent name="D:\Ijse Second\Chat-Application\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppInitializer">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="Chat-Application" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;D:\Ijse Second\javafx-sdk-19.0.2.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utill.Server" />
+      <module name="Chat-Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +95,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685437293965</updated>
+      <workItem from="1685437295991" duration="4818000" />
+      <workItem from="1685528861096" duration="663000" />
+      <workItem from="1685900744052" duration="681000" />
+      <workItem from="1686224369795" duration="10045000" />
+      <workItem from="1686283430289" duration="821000" />
+      <workItem from="1686367752687" duration="664000" />
+      <workItem from="1686374804595" duration="600000" />
+      <workItem from="1686412021255" duration="1513000" />
+      <workItem from="1686456637712" duration="954000" />
+      <workItem from="1687846448015" duration="702000" />
+      <workItem from="1692875617836" duration="499000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
